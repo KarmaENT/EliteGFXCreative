@@ -1,0 +1,12 @@
+// FILE 6: SYMBOLISM_ARCHIVE.json
+{
+  "archetype_cipher": {
+    "power": ["singularity_cores", "throne_vectors", "neutron_stars"],
+    "transformation": ["quantum_entanglement", "nervous_systems", "prismatic_shards"],
+    "forbidden_signs": ["inverted_tori", "non_orientable_surfaces", "einstein_rosen_bridges"]
+  },
+  "cultural_triggers": {
+    "japan": ["distorted_enso", "glitched_sakura", "neo-kintsugi"],
+    "cyber": ["neural_lace", "wetware_circuitry", "phantom_datastreams"]
+  }
+}

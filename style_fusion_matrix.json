@@ -1,0 +1,14 @@
+// FILE 4: STYLE_FUSION_MATRIX.json
+{
+  "avant_grade_blends": [
+    "Bauhaus × Bio-luminescence × Brutalism",
+    "Ukiyo-e × Cybernetics × Vaporcore",
+    "Art Deco × Quantum Physics × Glitch",
+    "Rococo × Holography × Dystopian",
+    "Soviet Constructivism × Alien Organic"
+  ],
+  "texture_forge": {
+    "elite_surfaces": ["crushed_velvet_light", "cryogenic_glass", "weathered_neurotech", "sentient_marble"],
+    "forbidden_combos": ["concrete + fire", "liquid_metal + static", "void + bioluminescence"]
+  }
+}

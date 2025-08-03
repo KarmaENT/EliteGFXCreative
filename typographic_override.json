@@ -1,0 +1,13 @@
+// FILE 3: TYPOGRAPHIC_OVERRIDE.json
+{
+  "godmode_fonts": {
+    "elite_serif": ["GT Super", "Dahlia", "Whyte Inktrap", "Tiempos Fine"],
+    "future_sans": ["Neue Machina", "Söhne Breit", "Ginto Nord", "Mori Gothic"],
+    "forbidden_display": ["Apoc Revel", "Blender Pro", "Monument Extended", "Druk Super"]
+  },
+  "kern_dogma": {
+    "max_compression": 0.25% of cap height,
+    "breathing_room": 1px light-trapping halo,
+    "animation_rules": ["morphing_stems", "liquid_terminals", "particle_decay"]
+  }
+}

@@ -1,0 +1,14 @@
+// FILE 2: CHROMATIC_NEXUS.json
+{
+  "hyperpalettes": {
+    "cybernoir_dream": ["#0F0E1A", "#FF2A6D", "#4DB5BD", "#F5E960", "rgba(125,88,255,0.7)"],
+    "quantum_verdure": ["#1A1C2C", "#41D3BD", "#E94560", "#FFAC41", "#F0F3BD"],
+    "neuro_venom": ["#121120", "#6DFF8C", "#FF00AA", "#00F0FF", "#FFDE59"]
+  },
+  "color_alchemy_rules": [
+    "Never use pure black - substitute #0F0E1A or #121120",
+    "Neon values must contain at least 95% saturation",
+    "Metallics require 3-point gradient minimum",
+    "Transparency only via luminous fog effects"
+  ]
+}
